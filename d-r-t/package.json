@@ -1,0 +1,22 @@
+{
+    "name": "d-r-t",
+    "displayName": "Dim-Raven-Theme",
+    "description": "First high contrast theme. Perfect for those whoc code really really long.",
+    "version": "0.0.1",
+    "publisher": "Dimek",
+    "engines": {
+        "vscode": "^1.15.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dim-Raven-Theme",
+                "uiTheme": "hc-black",
+                "path": "./themes/Dim-Raven-Theme-color-theme.json"
+            }
+        ]
+    }
+}
